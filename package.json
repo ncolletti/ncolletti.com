@@ -1,7 +1,7 @@
 {
-  "name": "Nick Colletti",
-  "private": true,
-  "description": "personal portfolio page",
+  "name": "ncolletti.com",
+  "private": false,
+  "description": "personal portfolio and dev blog",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -31,9 +31,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/ncolletti/ncolletti.com"
   }
 }

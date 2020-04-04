@@ -70,9 +70,9 @@ const About = (props) => {
 
                 <div className={aboutStyle.socialContainer}>
                 <h3>Shoot me a message</h3>
-                <a className={aboutStyle.social} href="mailto:colletti.nick@gmail.com" target="_blank"><i className="fas fa-envelope"></i></a>
-                <a className={aboutStyle.social} href="https://github.com/ncolleti" target="_blank"><i className="fab fa-github"></i></a>
-                <a className={aboutStyle.social} href="https://www.twitter.com/ncolletti85" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a className={aboutStyle.social} href="mailto:colletti.nick@gmail.com" target="_blank" rel="noopener noreferrer"><i className="fas fa-envelope"></i></a>
+                <a className={aboutStyle.social} href="https://github.com/ncolleti" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
+                <a className={aboutStyle.social} href="https://www.twitter.com/ncolletti85" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
                 </div>
 
 
